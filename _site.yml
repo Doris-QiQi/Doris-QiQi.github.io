@@ -20,7 +20,7 @@ navbar:
     - icon: fa-brands fa-linkedin
       href: https://www.linkedin.com/in/doris-y-94b8161aa/
     - icon: fa-regular fa-file-pdf
-      href: ./document/Jingyi Yao resume.pdf
+      href: ./document/Jingyi_Yao_resume.pdf
     
       
 output:

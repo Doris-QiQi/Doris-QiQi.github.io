@@ -71,7 +71,7 @@ Biostatistical Methods, Data Science, Survival Analysis, Statistical Learning an
 \ \par
 # Curriculum Vitae
 
-My pdf version [CV](./document/Jingyi Yao resume.pdf) is recently updated in October 2022.
+My pdf version [CV](./document/Jingyi_Yao_resume.pdf) is recently updated in October 2022.
 
 
 
