@@ -34,6 +34,12 @@ I like the internet, I use
 ![](images/kitten.jpg)
 
 
+# My Little Pet
+
+<img src="images/kitten.jpg" style="width:45%" align="middle">
+
+
+
 # Code Chunk
 ```{r}
 library(tidyverse)
