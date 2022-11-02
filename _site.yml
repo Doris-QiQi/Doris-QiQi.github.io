@@ -15,6 +15,8 @@ navbar:
       href: mailto:<jy3269@cumc.columbia.edu>
     - icon: fa-github fa-lg
       href: http://github.com/Doris-QiQi/
+    - icon: fa-brands fa-linkedin
+      href: https://www.linkedin.com/in/doris-y-94b8161aa/
     - icon: fa-regular fa-file-pdf
       href: ./document/Jingyi Yao resume.pdf
     
