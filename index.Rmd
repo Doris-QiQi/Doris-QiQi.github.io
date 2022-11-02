@@ -10,12 +10,16 @@ output:
 \ \par
 
 ## Welcome to My Zone!
+
+Know more about me by exploring the navigation bar at the top.
+
+
 <img src="images/profile.jpg" style="width:50%" >
 
 \ \par
 
 # About Me
-\ \par
+
    I am Jingyi Yao, a first year Master student in Biostatistics at Columbia University.
    
    I spent the first 22 years of my life in China and have just moved to New York this fall.
@@ -26,16 +30,12 @@ output:
    
 \ \par
 # Hobby
-   I love traveling and photography. I will update my photos [here](Photos.html) regularly.
+   I love traveling and photography. I will update my [photos](Photos.html) regularly.
 
+   
 \ \par
-   Know more about me by exploring the navigation bar at the top.
-
-  Please feel free to contact me if you have any question about me or for cooperation.
-  
-
 # Contact Information
-\ \par
+
 Jingyi Yao
 
 Columbia University Mailman School of Public Health
@@ -47,6 +47,8 @@ Columbia University Mailman School of Public Health
 [Github](http://github.com/Doris-QiQi/)  
 
 [LinkedIn](https://www.linkedin.com/in/doris-y-94b8161aa/)   
+
+Please feel free to contact me if you have any question about me or for cooperation.
  
    
 
