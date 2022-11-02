@@ -8,13 +8,34 @@ output:
 ---
 
 \ \par
+## Bear Mountain Hiking Trip
 
-### Photos from Bear Mountain
+taken on October 29 2022
+
+\ \par
+<img src="images/bearmountain1.jpeg" >
 
 
 \ \par
+<img src="images/bearmountain2.jpeg" >
 
-<img src="images/bearmountain1.jpeg" style="width:50%">
+
+\ \par
+## Fiji in Summer 2022
+My first time to be in the southern hemisphere.
+Fiji is like a emerald inlaid in the South Pacific Ocean.
+
+\ \par
+### Sea
+<img src="images/fiji1.jpeg" >
+
+\ \par
+### Sunset
+<img src="images/fiji2.jpeg" >
+
+
+
+
 
 
 
