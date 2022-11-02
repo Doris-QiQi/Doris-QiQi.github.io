@@ -10,7 +10,7 @@ output:
 \ \par
 
 ## Welcome to My Zone!
-<img src="images/profile.jpg" >
+<img src="images/profile.jpg" style="width:50%" >
 
 \ \par
 
@@ -21,15 +21,33 @@ output:
    I spent the first 22 years of my life in China and have just moved to New York this fall.
    
 \ \par
-   I love traveling and photography. I would update my photos [here](Photos.html) regularly.
-
-\ \par
+# Experience
    My academic and professional experience are illustrated in the [Resume](Resume.html) section and my pdf version [CV](./document/Jingyi Yao resume.pdf) is also attached.
    
 \ \par
-   Explore more about me by clicking on the buttons in the top navigation bar.
+# Hobby
+   I love traveling and photography. I will update my photos [here](Photos.html) regularly.
+
+\ \par
+   Know more about me by exploring the navigation bar at the top.
 
   Please feel free to contact me if you have any question about me or for cooperation.
+  
+
+# Contact Information
+\ \par
+Jingyi Yao
+
+Columbia University Mailman School of Public Health
+
+154 Haven Ave, New York, NY 10032
+
+[E-mail](mailto:<jy3269@cumc.columbia.edu>) 
+
+[Github](http://github.com/Doris-QiQi/)  
+
+[LinkedIn](https://www.linkedin.com/in/doris-y-94b8161aa/)   
+ 
    
 
 
