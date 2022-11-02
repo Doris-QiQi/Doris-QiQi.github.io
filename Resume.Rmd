@@ -13,28 +13,24 @@ output:
 \ \par
 ## Undergraduate
 
-\ \par
 ### East China Normal University (ECNU)  <img src="images/ECNU.PNG" style="width:8%">
 ##### *Sept. 2018 - June 2022  \ \ Shanghai, China*
-Department of Statistics
 
-Bachelor of Science in Statistics
+**Bachelor of Science in Statistics**
 
-Relevant Courses :\par
+**Relevant Courses :**\par
 Probability, Mathematical Statistics, Multivariate Statistical Analysis, Statistical Software, Statistical Learning in R, Time Series, Nonparametric Statistics
 
 
 \ \par
 ## Graduate
 
-\ \par
 ### Columbia University  <img src="images/mailman.PNG" style="width:25%">
 ##### *Sept. 2022 - June 2024 (Expected) \ \ New York, U.S.*
-Mailman School of Public Health
 
-Master of Science in Biostatistics
+**Master of Science in Biostatistics**
 
-Relevant Courses :\par
+**Relevant Courses :**\par
 Biostatistical Methods, Data Science, Survival Analysis, Statistical Learning and Data Mining, Analysis of Longitudinal Data, Causal Inference
 
 
@@ -44,13 +40,12 @@ Biostatistical Methods, Data Science, Survival Analysis, Statistical Learning an
 \ \par
 ## Internship
 
-\ \par
 ### Eli Lilly and Company <img src="images/lilly.jpeg" style="width:10%">
 ##### *Mar. 2021 - Mar 2022  \ \ Shanghai, China*
 
-Data Sciences and Solutions Intern
+**Data Sciences and Solutions Intern**
 
-Job Description :
+**Job Description :**
 
   * Designed an interactive visualization platform based on R Shiny and Tableau to generate tables, figures and listings (TFLs). 
   * Developed an automated system programmed in R to pre-process, integrate and analyze clinical data and generate reports. 
@@ -61,13 +56,12 @@ Job Description :
 \ \par
 ## Research
 
-\ \par
 ### East China Normal University   <img src="images/ECNU.PNG" style="width:8%">
 ##### *Sep. 2021 - May 2022  \ \ Shanghai, China*
 
-Research Assistant
+**Research Assistant**
 
-Job Description :
+**Job Description :**
 
   * Implemented dimension reduction methods (PCA, t-SNE, UMAP) on real and simulated scRNA-seq data and designed an evaluation framework to compare their accuracy, stability and computational performance.
   * Conducted differential expression analysis on a factorial design to assess the impact of the cancer drug doxorubicin on the hearts of mice with different genetic backgrounds using the Bioconductor limma package.
