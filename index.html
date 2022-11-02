@@ -16,7 +16,7 @@
 <script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/cerulean.min.css" rel="stylesheet" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
@@ -334,6 +334,9 @@ div.tocify {
   <a href="about.html">About</a>
 </li>
 <li>
+  <a href="extra_page.html">Extra</a>
+</li>
+<li>
   <a href="mailto:&lt;jy3269@cumc.columbia.edu&gt;">
     <span class="fa fa-envelope fa-lg"></span>
      
@@ -361,16 +364,33 @@ div.tocify {
 
 <div id="this-is-my-awesome-website" class="section level1">
 <h1>This is my awesome website</h1>
+<div id="subtitle-1" class="section level2">
+<h2>subtitle 1</h2>
+<p>1</p>
+</div>
+<div id="subtitle-2" class="section level2">
+<h2>subtitle 2</h2>
+<p>2</p>
 <p><img
 src="https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif" /></p>
-<div id="here-is-some-text.-i-like-the-internet-i-use"
-class="section level2">
-<h2>Here is some text. I like the internet, I use</h2>
-<p><a href="https://www.google.com/">google</a> all the time to do data
+</div>
+<div id="subtitle-3" class="section level2">
+<h2>subtitle 3</h2>
+<p>3</p>
+<div id="here-is-some-text." class="section level3">
+<h3>Here is some text.</h3>
+<p>I like the internet, I use <a
+href="https://www.google.com/">google</a> all the time to do data
 science.</p>
-<div id="this-is-my-kitten." class="section level3">
-<h3>This is my kitten.</h3>
+</div>
+</div>
+</div>
+<div id="this-is-my-kitten." class="section level1">
+<h1>This is my kitten.</h1>
 <p><img src="images/kitten.jpg" /></p>
+</div>
+<div id="code-chunk" class="section level1">
+<h1>Code Chunk</h1>
 <pre class="r"><code>library(tidyverse)</code></pre>
 <pre><code>## ── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
 ## ✔ ggplot2 3.3.6      ✔ purrr   0.3.4 
@@ -382,11 +402,15 @@ science.</p>
 ## ✖ dplyr::lag()    masks stats::lag()</code></pre>
 <pre class="r"><code>sample = rnorm(1000)
 mean(sample)</code></pre>
-<pre><code>## [1] 0.01632602</code></pre>
+<pre><code>## [1] -0.02943168</code></pre>
+</div>
+<div id="link-to-about-page" class="section level1">
+<h1>Link to About Page</h1>
 <p>Here is the link to the <a href="about.html">about</a> page</p>
+</div>
+<div id="link-to-extra-page" class="section level1">
+<h1>Link to Extra Page</h1>
 <p>I also added an <a href="extra_page.html">extra page</a></p>
-</div>
-</div>
 </div>
 
 

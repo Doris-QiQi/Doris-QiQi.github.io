@@ -9,20 +9,32 @@ output:
 
 # This is my awesome website
 
+## subtitle 1
+1
+
+## subtitle 2
+2
+
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
 
 
-## Here is some text. I like the internet, I use
+## subtitle 3
+3
+
+### Here is some text. 
+
+I like the internet, I use
 [google](https://www.google.com/) all the time to do data science.
 
 
 
 
-### This is my kitten.
+# This is my kitten.
 
 ![](images/kitten.jpg)
 
 
+# Code Chunk
 ```{r}
 library(tidyverse)
 
@@ -32,9 +44,10 @@ mean(sample)
 ```
 
 
+# Link to About Page
 Here is the link to the [about](about.html) page
 
-
+# Link to Extra Page
 I also added an [extra page](extra_page.html)
 
 

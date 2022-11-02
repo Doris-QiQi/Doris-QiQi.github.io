@@ -5,11 +5,15 @@ navbar:
   right:
     - text: "About"
       href: about.html
+    - text: "Extra"
+      href:  extra_page.html
     - icon: fa-envelope fa-lg
       href: mailto:<jy3269@cumc.columbia.edu>
     - icon: fa-github fa-lg
       href: http://github.com/Doris-QiQi/
+    
+      
 output:
   html_document:
-    theme: cerulean
+    theme: cosmo
   
