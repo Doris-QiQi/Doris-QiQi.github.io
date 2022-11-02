@@ -14,7 +14,7 @@ output:
 ## Undergraduate
 
 \ \par
-### East China Normal University (ECNU)
+### East China Normal University (ECNU)  <img src="images/ECNU.PNG" style="width:8%">
 ##### *Sept. 2018 - June 2022  \ \ Shanghai, China*
 Department of Statistics
 
@@ -28,7 +28,7 @@ Probability, Mathematical Statistics, Multivariate Statistical Analysis, Statist
 ## Graduate
 
 \ \par
-### Columbia University
+### Columbia University  <img src="images/mailman.PNG" style="width:30%">
 ##### *Sept. 2022 - June 2024 (Expected) \ \ New York, U.S.*
 Mailman School of Public Health
 
@@ -45,7 +45,7 @@ Biostatistical Methods, Data Science, Survival Analysis, Statistical Learning an
 ## Internship
 
 \ \par
-### Eli Lilly and Company
+### Eli Lilly and Company <img src="images/lilly.jpeg" style="width:10%">
 ##### *Mar. 2021 - Mar 2022  \ \ Shanghai, China*
 
 Data Sciences and Solutions Intern
@@ -62,7 +62,7 @@ Job Description :
 ## Research
 
 \ \par
-### East China Normal University
+### East China Normal University   <img src="images/ECNU.PNG" style="width:8%">
 ##### *Sep. 2021 - May 2022  \ \ Shanghai, China*
 
 Research Assistant
@@ -72,6 +72,12 @@ Job Description :
   * Implemented dimension reduction methods (PCA, t-SNE, UMAP) on real and simulated scRNA-seq data and designed an evaluation framework to compare their accuracy, stability and computational performance.
   * Conducted differential expression analysis on a factorial design to assess the impact of the cancer drug doxorubicin on the hearts of mice with different genetic backgrounds using the Bioconductor limma package.
   * Familiar with the various scRNA-seq data pre-processing functions in the R Seurat package, including quality control, normalization, data integration, correction of batch effects, feature selection, dimension reduction and visualization.
+  
+  
+\ \par
+# Curriculum Vitae
+
+My pdf version [CV](./document/Jingyi Yao resume.pdf) is recently updated in October 2022.
 
 
 
