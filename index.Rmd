@@ -32,7 +32,10 @@ mean(sample)
 ```
 
 
-Here is the link ti the about page : [about](about.html)
+Here is the link to the [about](about.html) page
+
+
+I also added an [extra page](extra_page.html)
 
 
 
