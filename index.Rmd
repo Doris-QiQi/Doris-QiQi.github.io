@@ -10,16 +10,16 @@ output:
 # This is my awesome website
 
 ## subtitle 1
-1
+
 
 ## subtitle 2
-2
+
 
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
 
 
 ## subtitle 3
-3
+
 
 ### Here is some text. 
 
@@ -29,7 +29,7 @@ I like the internet, I use
 
 
 
-# This is my kitten.
+# My Pet
 
 ![](images/kitten.jpg)
 
