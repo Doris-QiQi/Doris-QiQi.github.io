@@ -4,21 +4,21 @@ output:
   html_document:
     toc: true
     toc_float: true
-    theme: cerulean
+    
 ---
 
-# This is Jeff's awesome website
+# This is my awesome website
 
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
 
 
-Here is some text. I like the internet, I use
+## Here is some text. I like the internet, I use
 [google](https://www.google.com/) all the time to do data science.
 
 
 
 
-This is my kitten.
+### This is my kitten.
 
 ![](images/kitten.jpg)
 
@@ -29,9 +29,10 @@ library(tidyverse)
 sample = rnorm(1000)
 mean(sample)
 
-
 ```
 
+
+Here is the link ti the about page : [about](about.html)
 
 
 
