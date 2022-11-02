@@ -2,15 +2,21 @@ name: "Yay internet!"
 output_dir: "."
 navbar:
   title: "Home"
+  left:
+    - text: "Resume"
+      href: Resume.html
+    - text: "Photos"
+      href: Photos.html
+    - text: "Flexdashboard"
+      href: flexdashboard.html    
+      
   right:
-    - text: "About"
-      href: about.html
-    - text: "Extra"
-      href:  extra_page.html
     - icon: fa-envelope fa-lg
       href: mailto:<jy3269@cumc.columbia.edu>
     - icon: fa-github fa-lg
       href: http://github.com/Doris-QiQi/
+    - text: "CV"
+      href: ./document/Jingyi Yao resume.pdf
     
       
 output:
