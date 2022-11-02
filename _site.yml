@@ -8,7 +8,7 @@ navbar:
     - text: "Photos"
       href: Photos.html
     - text: "Flexdashboard"
-      href: flexdashboard.html    
+      href: Flexdashboard.html    
       
   right:
     - text: "About"
