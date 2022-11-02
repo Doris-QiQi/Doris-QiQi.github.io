@@ -10,43 +10,28 @@ output:
 \ \par
 
 ## Welcome to My Zone!
-
+<img src="images/profile.jpg" >
 
 \ \par
 
-### About Me
+# About Me
+\ \par
    I am Jingyi Yao, a first year Master student in Biostatistics at Columbia University.
    
+   I spent the first 22 years of my life in China and have just moved to New York this fall.
+   
+\ \par
    I love traveling and photography. I would update my photos [here](Photos.html) regularly.
+
+\ \par
+   My academic and professional experience are illustrated in the [Resume](Resume.html) section and my pdf version [CV](./document/Jingyi Yao resume.pdf) is also attached.
    
+\ \par
+   Explore more about me by clicking on the buttons in the top navigation bar.
+
+  Please feel free to contact me if you have any question about me or for cooperation.
    
-   
 
-
-### Here is some text. 
-
-I like the internet, I use
-[google](https://www.google.com/) all the time to do data science.
-
-
-
-
-
-
-
-# My Little Pet
-
-<img src="images/kitten.jpg" style="width:45%" align="middle">
-
-
-
-
-
-# Link to About Page
-Here is the link to the [about](about.html) page
-
-# Link to Extra Page
-I also added an [extra page](extra_page.html)
 
 
 
