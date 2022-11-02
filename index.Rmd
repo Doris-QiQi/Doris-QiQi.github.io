@@ -22,7 +22,9 @@ Know more about me by exploring the navigation bar at the top.
 
    I am Jingyi Yao, a first year Master student in Biostatistics at Columbia University.
    
-   I spent the first 22 years of my life in China and have just moved to New York this fall.
+   My English name is Doris and my Chinese nickname is QiQi.
+   
+   I spent the first 21 years of my life in China and have just moved to New York this fall.
    
 \ \par
 # Experience
@@ -31,6 +33,20 @@ Know more about me by exploring the navigation bar at the top.
 \ \par
 # Hobby
    I love traveling and photography. I will update my [photos](Photos.html) regularly.
+   
+\ \par
+# Flexdashboard
+   The [Flexdashboard](Flexdashboard.html) section contains the data visualization results of the my current works.
+   
+\ \par
+# GitHub Repositories
+   Below are links to some of my GitHub repositories that I am working on.
+   
+   [Personal Website](https://github.com/Doris-QiQi/Doris-QiQi.github.io)
+   
+   [Plotly and Flexdashboards](https://github.com/Doris-QiQi/Plotly-and-flexdashboard)
+   
+   [Visualization and EDA](https://github.com/Doris-QiQi/Visualization-and-EDA)<br>
 
    
 \ \par
