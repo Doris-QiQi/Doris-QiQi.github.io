@@ -1,5 +1,5 @@
 ---
-title: "My awesome website"
+title: "Jingyi Yao"
 output: 
   html_document:
     toc: true
@@ -7,18 +7,20 @@ output:
     
 ---
 
-# This is my awesome website
+\ \par
 
-## subtitle 1
-
-
-## subtitle 2
+## Welcome to My Zone!
 
 
-![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+\ \par
 
-
-## subtitle 3
+### About Me
+   I am Jingyi Yao, a first year Master student in Biostatistics at Columbia University.
+   
+   I love traveling and photography. I would update my photos [here](Photos.html) regularly.
+   
+   
+   
 
 
 ### Here is some text. 
@@ -29,9 +31,7 @@ I like the internet, I use
 
 
 
-# My Pet
 
-![](images/kitten.jpg)
 
 
 # My Little Pet
@@ -40,14 +40,6 @@ I like the internet, I use
 
 
 
-# Code Chunk
-```{r}
-library(tidyverse)
-
-sample = rnorm(1000)
-mean(sample)
-
-```
 
 
 # Link to About Page
