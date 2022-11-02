@@ -1,26 +1,10 @@
 ---
-title: "About This Website"
-output: 
-  html_document:
-    toc: true
-    toc_float: true
-    
+title: "About"
+author: "Jingyi Yao"
+date: "`r Sys.Date()`"
+output: html_document
 ---
 
-## This is the about page
+This is a homework website for P8105. 
 
-This website is made in rmarkdown and other stuff.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+But I will continue to work on it and make it my official personal website.
