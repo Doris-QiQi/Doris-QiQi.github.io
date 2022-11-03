@@ -25,5 +25,5 @@ navbar:
       
 output:
   html_document:
-    theme: cyborg
+    theme: darkly
   
