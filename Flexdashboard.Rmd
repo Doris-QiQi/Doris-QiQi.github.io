@@ -5,7 +5,7 @@ output:
     
 ---
 
-```{r setup, include=FALSE}
+```{r, include=FALSE}
 knitr::opts_chunk$set(collapse = TRUE, message = FALSE)
 library(flexdashboard)
 library(tidyverse)
@@ -32,16 +32,13 @@ scatter_plot =
   group_by(boro,inspection_date) %>%
   mutate(mean_score = mean(score)) %>%
   select(boro, inspection_date, mean_score) %>%
-  plot_ly(x = ~inspection_date, y = ~mean_score, color = ~boro, type = 'scatter', mode="markers",colors = 'viridis') %>%
+  plot_ly(x = ~inspection_date, y = ~mean_score, color = ~boro, type = 'scatter', mode = "markers",colors = 'viridis') %>%
   layout(
     xaxis = list(title = "Inspection Date"),
     yaxis = list(title = "Mean Score")
   )
 
 ```
-
-
-
 
 
 ```{r}
@@ -103,3 +100,6 @@ box_plot
 bar_plot
 
 ```
+
+
+
