@@ -74,7 +74,7 @@ bar_plot =
 ```
 
 
-Column {data-width=500}
+Column {data-width=550}
 -------------------------------------
     
 ### Scatterplot of NYC Restaurants' Mean Score over Time in 2016
@@ -85,7 +85,7 @@ scatter_plot
 ```
    
 
- Column {data-width=500}
+ Column {data-width=450}
 -------------------------------------  
 ### Boxplot of Score in 5 NYC Boroughs in 2016
 
