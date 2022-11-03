@@ -33,10 +33,15 @@ Know more about me by exploring the navigation bar at the top.
 \ \par
 # Hobby
    I love traveling and photography. I will update my [photos](Photos.html) regularly.
+
+\ \par
+# Plotly
+   In the [Plotly](Plotly.html) section, I chose the NYC Restaurants Inspection data set  to make 3 types of plots, including boxplot, scatterplot and barplot.
+   
    
 \ \par
 # Flexdashboard
-   The [Flexdashboard](Flexdashboard.html) section contains the data visualization results of the my current works.
+   The [Flexdashboard](Flexdashboard.html) section contains the visualization results in [Plotly](Plotly.html), displayed in a dashboard.
    
 \ \par
 # GitHub Repositories
