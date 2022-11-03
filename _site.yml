@@ -7,6 +7,8 @@ navbar:
       href: Resume.html
     - text: "Photos"
       href: Photos.html
+    - text: "Plotly"
+      href: Plotly.html 
     - text: "Flexdashboard"
       href: Flexdashboard.html    
       
