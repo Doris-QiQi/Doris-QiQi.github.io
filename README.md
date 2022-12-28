@@ -1,2 +1,2 @@
 # Doris-QiQi.github.io
-P8105 -- Personal Website
+p8105 -- Personal Website
